@@ -1,5 +1,10 @@
 # Barney Wakefield
 
+<style>
+ .inline-block {
+   display: inline-block}
+</style>
+
 ## Projects
 <div class="inline-block">
  <a href="[https://www.w3schools.com](https://storymaps.arcgis.com/stories/b1dfc18d41d74e58af6beccb1f16fc18)">
