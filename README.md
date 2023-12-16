@@ -1,3 +1,23 @@
+<head>
+<style>
+        .geeks {
+            width: 300px;
+            height: 300px;
+            overflow: hidden;
+            margin: 0 auto;
+        }
+     
+        .geeks img {
+            width: 100%;
+            transition: 0.5s all ease-in-out;
+        }
+     
+        .geeks:hover img {
+            transform: scale(1.5);
+        }
+    </style>
+  </head>
+
 # Barney Wakefield
 
 ## Projects
@@ -8,8 +28,14 @@
 <img border="0" alt="W3Schools" src="test.png" width="100" height="100">
 </a>
 
-## Social Media
-
+ 
+<body>
+    <div class="geeks">
+        <img src=
+test.png"
+            alt="map" />
+    </div>
+</body>
 
 ### H3
 #### H4
