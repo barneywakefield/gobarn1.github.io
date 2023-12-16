@@ -1,5 +1,14 @@
 <head>
-<style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0" />
+         
+    <title>
+        How to Zoom an Image on
+        Mouse Hover using CSS?
+    </title>
+     
+    <style>
         .geeks {
             width: 300px;
             height: 300px;
@@ -16,7 +25,7 @@
             transform: scale(1.5);
         }
     </style>
-  </head>
+</head>
 
 # Barney Wakefield
 
