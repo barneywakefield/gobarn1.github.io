@@ -1,3 +1,7 @@
+
+<!DOCTYPE html>
+<html>
+     
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content=
@@ -26,6 +30,18 @@
         }
     </style>
 </head>
+ 
+<body>
+    <div class="geeks">
+        <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200403151026/adblur_gfg.png"
+            alt="Geeks Image" />
+    </div>
+</body>
+ 
+</html>
+
+
 
 # Barney Wakefield
 
@@ -38,11 +54,6 @@
 </a>
 
  
-<body>
-    <div class="geeks">
-        <img src="test.png" alt="map" />
-    </div>
-</body>
 
 ### H3
 #### H4
