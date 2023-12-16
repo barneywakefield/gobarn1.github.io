@@ -5,7 +5,7 @@
     <meta name="viewport" content=
         "width=device-width, initial-scale=1.0" />
      
-    <style>
+<style>
         .geeks {
             width: 300px;
             height: 300px;
@@ -21,7 +21,7 @@
         .geeks:hover img {
             transform: scale(1.5);
         }
-    </style>
+</style>
 </head>
  
 <body>
