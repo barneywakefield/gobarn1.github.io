@@ -7,7 +7,7 @@
  <a href="[https://www.w3schools.com](https://storymaps.arcgis.com/stories/b1dfc18d41d74e58af6beccb1f16fc18)">
  <img border="20" alt="W3Schools" src="linked.png" width="150" height="150">
  </a> 
- 
+ <p> </p>
  <a href="[https://www.w3schools.com](https://storymaps.arcgis.com/stories/b1dfc18d41d74e58af6beccb1f16fc18)">
  <img border="100" alt="W3Schools" src="youtube.png" width="150" height="150">
  </a>
