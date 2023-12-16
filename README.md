@@ -31,9 +31,7 @@
  
 <body>
     <div class="geeks">
-        <img src=
-test.png"
-            alt="map" />
+        <img src="test.png" alt="map" />
     </div>
 </body>
 
